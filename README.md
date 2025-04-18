@@ -101,5 +101,8 @@ This repository was created as a learning and practice tool for implementing cry
 
 ## 🧑‍💻 Author
 Karan Sehgal
+
+---
+
 Feel free to contribute or raise an issue if you'd like to discuss or suggest improvements!
 
